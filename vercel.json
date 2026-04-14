@@ -1,0 +1,1 @@
+{\n  "build": {\n    "commands": [\n      "npm install --prefix frontend",\n      "npm run build --prefix frontend"\n    ],\n    "outputDirectory": "frontend/dist"\n  }\n}
